@@ -13,7 +13,7 @@
 
    mkdir c:\python_env
    cd c:\python_env
-   с:\python3\jupyter_1 -m venv c:\python_env\jupyter_1
+   python -m venv c:\python_env\jupyter_1
 
 
 активируем среду    
