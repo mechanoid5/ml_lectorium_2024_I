@@ -161,10 +161,8 @@ cython_debug/
 
 
 tmp/
-data/
 _new/
 /examples/lab
 *.pkl.gz
 *.txt.gz
-data
 
